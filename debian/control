@@ -30,7 +30,9 @@ Depends:
   cosmic-settings,
   cosmic-settings-daemon,
   cosmic-workspaces,
+  pop-fonts,
   xdg-desktop-portal-cosmic,
+  xwayland,
 Recommends:
   cosmic-edit,
   cosmic-files,
